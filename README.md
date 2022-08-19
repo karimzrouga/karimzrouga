@@ -1,8 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web-mobile+app+developer.++++++++++)](https://git.io/typing-svg)
 <div align="center">
-<p align="center"><a href="https://github.com/karimzrouga"><img width="80%" alt="Hello, I'm karim." src="./me.png" /></a></p>    </div>
+<p align="center"><a href="https://github.com/karimzrouga"><img width="80%" alt="Hello, I'm karim." src="./me.png" /></a></p>   
 <img src="https://res.cloudinary.com/dq0m3f3td/image/upload/v1660943557/87030-designer-programmer_davsrt.gif" width="500px">
-    ## About
+</div>
+**About me**
     <p>
       <em>
         Im Karim zouga - from <a href="https://www.google.tn/maps/@34.6113892,8.7590835,6z?hl=fr"><b>Tunisia <img src="https://c.tenor.com/duXOVn1GHEwAAAAM/tunisia-flag.gif" width="30px"></b></a><br> 
