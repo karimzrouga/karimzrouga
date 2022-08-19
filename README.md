@@ -9,7 +9,7 @@
       </em>
     </p>
     
-    - Part-time freelancer 👨‍💻<a href="https://fr.fiverr.com/karimzrouga"> At</a> fiverr
+   <p> - Part-time freelancer 👨‍💻<a href="https://fr.fiverr.com/karimzrouga"> At</a> fiverr    </p>
     <br>
     - Full tsack Angular && Spring Boot developer  <img src="https://i0.wp.com/pentesttools.net/wp-content/uploads/2019/10/Lockdoor-Framework-A-Penetration-Testing-Framework-With-Cyber-Security.gif?fit=250%2C250&ssl=1" width="30px"><br>
     - Full tsack android  developer  <img src="https://i0.wp.com/pentesttools.net/wp-content/uploads/2019/10/Lockdoor-Framework-A-Penetration-Testing-Framework-With-Cyber-Security.gif?fit=250%2C250&ssl=1" width="30px"><br>
