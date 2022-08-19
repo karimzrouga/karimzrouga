@@ -1,5 +1,6 @@
-<div align="center">
     [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+and+app+developer.++++++++++)](https://git.io/typing-svg)
+
+<div align="center">
 
     <h2> 𝐇𝐞𝐥𝐥𝐨  there 👋 <br></h2><img src="https://res.cloudinary.com/dq0m3f3td/image/upload/v1660943557/87030-designer-programmer_davsrt.gif" width="500px">
     </div>
