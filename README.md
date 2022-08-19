@@ -31,12 +31,13 @@
     <br><a href="#"><img alt="Big Love" src="https://img.shields.io/static/v1?label=Big&message=Love&color=red"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     
-    <br>
+    </br>
     <h3 align="center"> Contact Me </h3>
     <p align="center">
     <a href="https://karimzrouga.me/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/user.svg" alt="cyb3rtn" height="20" width="20" /></a>&nbsp;
     <a href="https://www.linkedin.com/in/karim-zrouga/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="m4m" height="20" width="20" /></a>&nbsp;
     <a href="https://www.behance.net/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="zack.py" height="20" width="20" /></a>
-    <br>
+    
+    </br>
     
     
