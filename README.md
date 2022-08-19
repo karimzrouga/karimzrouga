@@ -11,8 +11,8 @@
     
    <p> - Part-time freelancer 👨‍💻<a href="https://fr.fiverr.com/karimzrouga"> At</a> fiverr    </p>
     <br>
-    - Full tsack Angular && Spring Boot developer  <img src="https://i0.wp.com/pentesttools.net/wp-content/uploads/2019/10/Lockdoor-Framework-A-Penetration-Testing-Framework-With-Cyber-Security.gif?fit=250%2C250&ssl=1" width="30px"><br>
-    - Full tsack android  developer  <img src="https://i0.wp.com/pentesttools.net/wp-content/uploads/2019/10/Lockdoor-Framework-A-Penetration-Testing-Framework-With-Cyber-Security.gif?fit=250%2C250&ssl=1" width="30px"><br>
+   <p    - Full tsack Angular && Spring Boot developer  <img src="https://i0.wp.com/pentesttools.net/wp-content/uploads/2019/10/Lockdoor-Framework-A-Penetration-Testing-Framework-With-Cyber-Security.gif?fit=250%2C250&ssl=1" width="30px"> </p>
+    - Full tsack android  developer  <img src="https://i0.wp.com/pentesttools.net/wp-content/uploads/2019/10/Lockdoor-Framework-A-Penetration-Testing-Framework-With-   <pCyber-Security.gif?fit=250%2C250&ssl=1" width="30px"> </p>
     - Instersted in Tech & Hack News 🆕📊<br>
    <p> - Intersted in new startups In My Country <img src="https://c.tenor.com/duXOVn1GHEwAAAAM/tunisia-flag.gif" width="30px"> </p><br>
       <a href="#"><img alt="android" src="https://img.shields.io/badge/android%20-%2314354C.svg?logo=android&logoColor=white"></a>
