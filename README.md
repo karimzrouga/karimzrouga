@@ -25,7 +25,6 @@
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a><br>
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"></a>
     <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white"></a>
-    <br><a href="#"><img alt="Big Love" src="https://img.shields.io/static/v1?label=Big&message=Love&color=red"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a><br>
     <h3 align="center"> Contact Me </h3>
     <p align="center">
