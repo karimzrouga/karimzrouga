@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web-mobile+app+developer.++++++++++)](https://git.io/typing-svg)
 <div align="center">
 <p align="center"><a href="https://github.com/karimzrouga"><img width="80%" alt="Hello, I'm karim." src="./me.png" /></a></p>    </div>
+<img src="https://res.cloudinary.com/dq0m3f3td/image/upload/v1660943557/87030-designer-programmer_davsrt.gif" width="500px">
     ## About
     <p>
       <em>
