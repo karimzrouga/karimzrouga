@@ -21,8 +21,7 @@
       <a href="#"><img alt="symfony" src="https://img.shields.io/badge/symfony%20-%23E34F26.svg?logo=symfony&logoColor=white"></a> 
       <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/></a>
       <a href="#"><img alt="java" src="https://img.shields.io/badge/java-%23777BB4.svg?logo=java&logoColor=white"/></a>
-
-       &emsp;<br>
+     &emsp;<br>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white"></a> 
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a> 
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/></a>
