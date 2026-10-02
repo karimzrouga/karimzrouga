@@ -1,0 +1,44 @@
+name: Update profile
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 6 * * *'
+  push:
+    branches: [prod]
+    paths:
+      - scripts/**
+      - .github/workflows/update-profile.yml
+permissions:
+  contents: write
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate public profile statistics
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USERNAME: karimzrouga
+        run: python3 scripts/update_profile.py
+      - name: Generate 3D city, language chart and activity radar
+        uses: yoshi389111/github-profile-3d-contrib@9e3f937195cf840d364388973f73e3c4b3753586
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: karimzrouga
+          SETTING_JSON: scripts/contrib-settings.json
+      - name: Install contribution dashboard
+        run: |
+          test -s profile-3d-contrib/profile-karim.svg
+          cp profile-3d-contrib/profile-karim.svg assets/city.svg
+      - name: Commit refreshed assets
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/stats.svg assets/city.svg README.md
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: refresh GitHub profile visuals'
+            git push
+          fi

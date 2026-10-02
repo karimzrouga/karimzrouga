@@ -1,0 +1,17 @@
+{
+  "type": "normal",
+  "fileName": "profile-karim.svg",
+  "backgroundColor": "#120f16",
+  "foregroundColor": "#e6edf3",
+  "strongColor": "#60a5fa",
+  "weakColor": "#94a3b8",
+  "radarColor": "#a78bfa",
+  "growingAnimation": true,
+  "contribColors": [
+    "#202840",
+    "#334b80",
+    "#516ed0",
+    "#60a5fa",
+    "#a78bfa"
+  ]
+}
