@@ -35,4 +35,4 @@ Explore my work on my [portfolio](https://zrouga.vercel.app) and [public reposit
 
 <p align="center"><a href="https://zrouga.vercel.app"><b>Visit my portfolio ↗</b></a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/karim-zrouga/"><b>Connect on LinkedIn ↗</b></a></p>
 
-<sub>Animated layout adapted from [Megha Mittal](https://github.com/Meghamittal0920/Meghamittal0920). Personalized for Karim Zrouga.</sub>
+
