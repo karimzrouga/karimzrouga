@@ -25,9 +25,9 @@
 
 Explore my work on my [portfolio](https://zrouga.vercel.app) and [public repositories](https://github.com/karimzrouga?tab=repositories).
 
-<img src="assets/stats.svg?v=5" width="100%" alt="Automatically updated public GitHub profile statistics" />
+<img src="assets/stats.svg?v=20261002134223" width="100%" alt="Automatically updated public GitHub profile statistics" />
 
-<img src="assets/city.svg?v=5" width="100%" alt="Isometric skyline generated from my daily GitHub contributions over the past year" />
+<img src="assets/city.svg?v=20261002134223" width="100%" alt="Isometric skyline generated from my daily GitHub contributions over the past year" />
 
 <img src="assets/connect.svg?v=5" width="100%" alt="Connect through my portfolio or LinkedIn using the links below" />
 
