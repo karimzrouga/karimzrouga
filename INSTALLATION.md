@@ -45,3 +45,11 @@ La section loisirs présente six scènes SVG, chacune visible six secondes : Foo
 Le calendrier 3D utilise le même générateur que le dépôt de référence, avec tes couleurs bleu/violet. Il inclut une répartition des langages, un radar d’activité et une animation de croissance. `scripts/contrib-settings.json` configure son thème. Le workflow est fixé à une révision précise du générateur.
 
 Après le push sur `prod`, le workflow se lance automatiquement si son fichier ou un script a changé. Tu peux aussi utiliser Actions → Update profile → Run workflow → prod. Le visuel fourni affiche un état en attente jusqu’à la première génération ; aucun chiffre de démonstration n’est présenté comme réel. Le résultat remplace automatiquement `assets/city.svg`.
+
+## Si les contributions restent en attente
+
+Vérifie que `.github/workflows/update-profile.yml` est présent dans le dépôt. Cette version se lance à chaque push sur `prod` ou `main`, sans filtre de chemins. La génération 3D est tentée même si la récupération des statistiques échoue.
+
+Sur GitHub : Actions → Update profile → ouvre la dernière exécution. Un état rouge nécessite de lire le message de l’étape en erreur. Pour lancer manuellement et pour la planification quotidienne, le workflow doit être présent sur la branche par défaut ; utilise `prod` comme branche par défaut si c’est ta branche de travail. Après une exécution réussie, fais `git pull --rebase origin prod` avant tes prochaines modifications : le bot aura ajouté un commit.
+
+La scène Gym est désormais explicitement nommée Musculation, avec un personnage et une barre. Elle apparaît pendant le deuxième intervalle du carrousel (environ 6 à 12 secondes après le début).

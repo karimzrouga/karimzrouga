@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/hero.gif?v=7" width="100%" alt="Mohamed Karim Zrouga, Full Stack Engineer in Sousse, with the supplied anime video" /></p>
+<p align="center"><img src="assets/hero.gif?v=8" width="100%" alt="Mohamed Karim Zrouga, Full Stack Engineer in Sousse, with the supplied anime video" /></p>
 
 <p align="center">
 <a href="https://zrouga.vercel.app">Portfolio</a> ·
@@ -6,11 +6,11 @@
 <a href="https://github.com/karimzrouga?tab=repositories">Repositories</a>
 </p>
 
-<img src="assets/about.svg?v=7" width="100%" alt="I build full-stack business applications and secure APIs. Interests: gym, side projects and creative experiments." />
+<img src="assets/about.svg?v=8" width="100%" alt="I build full-stack business applications and secure APIs. Interests: gym, side projects and creative experiments." />
 
-<img src="assets/stack.svg?v=7" width="100%" alt="Java 21, Spring Boot, Angular, React, TypeScript, PostgreSQL, MySQL, Docker, GitHub Actions, Keycloak, JWT and Flowable." />
+<img src="assets/stack.svg?v=8" width="100%" alt="Java 21, Spring Boot, Angular, React, TypeScript, PostgreSQL, MySQL, Docker, GitHub Actions, Keycloak, JWT and Flowable." />
 
-<img src="assets/id-dashboard.svg?v=7" width="100%" alt="Teleinformatics engineer, ISITCOM Hammam Sousse. Available for collaboration." />
+<img src="assets/id-dashboard.svg?v=8" width="100%" alt="Teleinformatics engineer, ISITCOM Hammam Sousse. Available for collaboration." />
 
 ### Selected work
 
@@ -25,13 +25,13 @@
 
 Explore my work on my [portfolio](https://zrouga.vercel.app) and [public repositories](https://github.com/karimzrouga?tab=repositories).
 
-<img src="assets/stats.svg?v=7" width="100%" alt="Automatically updated public GitHub profile statistics" />
+<img src="assets/stats.svg?v=8" width="100%" alt="Automatically updated public GitHub profile statistics" />
 
 ### GitHub contributions
 
-<img src="assets/city.svg?v=7" width="100%" alt="3D GitHub contribution calendar, language breakdown and activity radar" />
+<img src="assets/city.svg?v=8" width="100%" alt="3D GitHub contribution calendar, language breakdown and activity radar" />
 
-<img src="assets/connect.svg?v=7" width="100%" alt="Connect through my portfolio or LinkedIn using the links below" />
+<img src="assets/connect.svg?v=8" width="100%" alt="Connect through my portfolio or LinkedIn using the links below" />
 
 <p align="center"><a href="https://zrouga.vercel.app"><b>Visit my portfolio ↗</b></a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/karim-zrouga/"><b>Connect on LinkedIn ↗</b></a></p>
 
