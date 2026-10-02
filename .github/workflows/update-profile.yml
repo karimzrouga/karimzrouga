@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: '17 6 * * *'
   push:
-    branches: [prod]
+    branches: [pp]
     paths:
       - scripts/**
       - .github/workflows/update-profile.yml
