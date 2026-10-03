@@ -25,11 +25,11 @@
 
 Explore my work on my [portfolio](https://zrouga.vercel.app) and [public repositories](https://github.com/karimzrouga?tab=repositories).
 
-<img src="assets/stats.svg?v=20261002153419" width="100%" alt="Automatically updated public GitHub profile statistics" />
+<img src="assets/stats.svg?v=20261003114130" width="100%" alt="Automatically updated public GitHub profile statistics" />
 
 ### GitHub contributions
 
-<img src="assets/city.svg?v=20261002153419" width="100%" alt="3D GitHub contribution calendar, language breakdown and activity radar" />
+<img src="assets/city.svg?v=20261003114130" width="100%" alt="3D GitHub contribution calendar, language breakdown and activity radar" />
 
 <img src="assets/connect.svg?v=8" width="100%" alt="Connect through my portfolio or LinkedIn using the links below" />
 
